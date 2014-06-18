@@ -1,4 +1,4 @@
-NetMRI-2014-3418 - InfoBlox Network Automation OS Command Injection Metasploit Module
+NetMRI-CVE-2014-3418 - Metasploit Module
 ================
 InfoBlox Network Automation OS Command Injection Metasploit Module
 
