@@ -3,13 +3,16 @@ NetMRI-CVE-2014-3418 - Metasploit Module
 InfoBlox Network Automation OS Command Injection Metasploit Module
 
 Product: Network Automation
-•	NetMRI
-•	Switch Port Manager
-•	Automation Change Manager
-•	Security Device Controller
-Vendor: InfoBlox
-Vulnerable Version(s): 6.4.X.X-6.8.4.X
-Tested Version: 6.8.2.11
+	NetMRI
+	Switch Port Manager
+	Automation Change Manager
+	Security Device Controller
+Vendor: 
+	InfoBlox
+Vulnerable Version(s):
+	6.4.X.X-6.8.4.X
+Tested Version: 
+	6.8.2.11
 
 Vendor Notification: May 12th, 2014 
 Public Disclosure: July 9th, 2014 
