@@ -36,7 +36,7 @@ Standard Functionality Includes:
 
 	User creation
 	Setting password for user
-	Adds user to the "wheel" group, commands can be executed as root
+	Adds user to the "wheel" group, commands can be executed as root with sudo
 	Auto-generation of random username and password values if not specified
 	Executes linux payload of choice, tested with reverse meterpreter
 
