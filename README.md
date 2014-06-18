@@ -11,10 +11,11 @@ Installation:
 
 Standard Functionality Includes:
 
-	User Creation
-	Setting a Password For the User
+	User creation
+	Setting password for user
 	Adds user to the "wheel" group, commands can be executed as root
 	Auto-generation of random username and password values if not specified
+	Executes linux payload of choice, tested with reverse meterpreter
 
 Future Functionality:
 
