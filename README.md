@@ -29,8 +29,6 @@ Discovered and Provided:
 
 	Nate Kettlewell, Depth Security ( https://www.depthsecurity.com/ )
 
-This is a Metasploit module that exploits an OS command injection vulnerability in the InfoBlox Network Automation Products.
-
 Installation:
 
 	git clone https://github.com/depthsecurity/NetMRI-2014-3418.git
