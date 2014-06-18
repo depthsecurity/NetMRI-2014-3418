@@ -20,3 +20,4 @@ Standard Functionality Includes:
 Future Functionality:
 
 	Remove SSH dependency, utilize only HTTP for payload transmission.
+	Proper cleanup on session end, processes do not die
