@@ -11,7 +11,7 @@ Installation:
 
 Standard Functionality Includes:
 
-User Creation
+	User Creation
 	Setting a Password For the User
 	Adds user to the "wheel" group, commands can be executed as root
 	Auto-generation of random username and password values if not specified
