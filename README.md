@@ -21,9 +21,13 @@ Tested Version:
 
 	6.8.2.11
 
-CVE Reference: CVE-2014-3418
+CVE Reference:
 
-	Discovered and Provided: Nate Kettlewell, Depth Security ( https://www.depthsecurity.com/ )
+	CVE-2014-3418
+
+Discovered and Provided: 
+
+	Nate Kettlewell, Depth Security ( https://www.depthsecurity.com/ )
 
 This is a Metasploit module that exploits an OS command injection vulnerability in the InfoBlox Network Automation Products.
 
